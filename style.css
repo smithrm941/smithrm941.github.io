@@ -7,6 +7,16 @@ h4 {
   color: white;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: blue;
+  background-color: white;
+}
+
 label {
   color: white;
 }
