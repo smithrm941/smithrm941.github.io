@@ -18,6 +18,7 @@ form {
 .navigation {
   background-color: pink;
   padding: 5px;
+  width: 100%
 }
 
 .caption {
