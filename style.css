@@ -146,9 +146,15 @@ form {
   color: pink;
 }
 
-.screenshot-link {
+/* .screenshot-link {
   display: flex;
   margin: auto;
   width: 40vh;
   height: 40vh;
+} */
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
 }
