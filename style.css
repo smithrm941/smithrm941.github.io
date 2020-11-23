@@ -20,6 +20,11 @@ form {
   padding: 5px;
 }
 
+.caption {
+  background-color: white;
+  padding: 5px;
+}
+
 * {box-sizing:border-box}
 
 /* Slideshow container */
