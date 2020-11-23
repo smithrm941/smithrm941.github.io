@@ -7,6 +7,10 @@ h4 {
   color: white;
 }
 
+h1 {
+  background-color: pink;
+}
+
 p {
   color: white;
 }
@@ -143,5 +147,5 @@ form {
 }
 
 .cs-link {
-  color: white;
+  color: pink;
 }
