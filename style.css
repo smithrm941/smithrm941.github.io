@@ -149,3 +149,7 @@ form {
 .scroll-pic {
   width: 100%;
 }
+
+.download-link {
+  color: black;
+}
