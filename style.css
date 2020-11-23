@@ -154,7 +154,7 @@ form {
 } */
 
 
-.column {
+/* .column {
   float: left;
   width: 50vw;
   padding: 5px;
@@ -164,4 +164,4 @@ form {
   content: "";
   clear: both;
   display: table;
-}
+} */
