@@ -145,3 +145,10 @@ form {
 .cs-link {
   color: pink;
 }
+
+.screenshot-link {
+  display: flex;
+  margin: auto;
+  width: 40vh;
+  height: 40vh;
+}
