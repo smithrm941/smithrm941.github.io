@@ -3,6 +3,14 @@ body{
   font-family: verdana;
 }
 
+h4 {
+  color: white;
+}
+
+p {
+  color: white;
+}
+
 @media only screen and (max-width: 1080px) {
   h4 {
     color: white;
@@ -12,14 +20,6 @@ body{
     color: white;
     font-size:5vw;
   }
-}
-
-h4 {
-  color: white;
-}
-
-p {
-  color: white;
 }
 
 a {
