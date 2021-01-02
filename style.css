@@ -3,6 +3,11 @@ body{
   font-family: verdana;
 }
 
+h4 {
+  color: white;
+  font-size:5vw;
+}
+
 p {
   color: white;
   font-size:5vw;
