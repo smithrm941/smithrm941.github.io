@@ -4,11 +4,7 @@ body{
   -webkit-text-size-adjust:100%;
 }
 
-h4 {
-  color: white;
-}
-
-p {
+p, h4, h6 {
   color: white;
 }
 
@@ -39,6 +35,10 @@ form {
 .caption {
   background-color: white;
   padding: 5px;
+}
+
+.caption {
+  background-color: black;
 }
 
 * {box-sizing:border-box}
