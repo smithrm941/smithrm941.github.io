@@ -155,6 +155,14 @@ form {
   color: black;
 }
 
+.page-text {
+  padding-left: 3%;
+}
+
+ul {
+  list-style-type: none;
+}
+
 .flex {
   display: flex;
   flex-wrap: nowrap;
