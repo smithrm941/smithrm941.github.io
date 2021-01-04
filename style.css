@@ -143,10 +143,23 @@ form {
   color: pink;
 }
 
-.scroll-pic {
-  width: 100%;
-}
-
 .download-link {
   color: black;
+}
+
+.flex {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: auto;
+}
+.flex-item{
+  flex: 0 0 20px;
+}
+
+#galleryModal{
+  background-color: black;
+}
+
+.modal-header, .modal-body, .modal-content{
+  width:100%;
 }
