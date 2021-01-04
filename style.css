@@ -32,6 +32,14 @@ form {
   width: 100%
 }
 
+.navbar-nav {
+  padding-left: 15%;
+}
+
+.nav-link {
+  font-size: large;
+}
+
 .caption {
   background-color: white;
   padding: 5px;
@@ -156,8 +164,8 @@ form {
   flex: 0 0 20px;
 }
 
-#galleryModal{
-  background-color: black;
+.modal{
+   background: rgba(0, 0, 0, 0.85);
 }
 
 .modal-header, .modal-body, .modal-content{
